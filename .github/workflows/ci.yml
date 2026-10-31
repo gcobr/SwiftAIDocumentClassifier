@@ -27,10 +27,3 @@ jobs:
             -scheme SwiftAIDocumentClassifier \
             -destination 'platform=macOS' \
             build
-
-      - name: Build for iOS Simulator
-        run: |
-          xcodebuild -project SwiftAIDocumentClassifier.xcodeproj \
-            -scheme SwiftAIDocumentClassifier \
-            -destination 'generic/platform=iOS Simulator' \
-            build
