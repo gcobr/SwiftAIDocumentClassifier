@@ -11,10 +11,15 @@ jobs:
   build:
     name: Build Application
     runs-on: xcode-27
+    env:
+      DEVELOPER_DIR: /Applications/Xcode_27.2.app/Contents/Developer
 
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Xcode version
+        run: xcodebuild -version
 
       - name: Build for macOS
         run: |
