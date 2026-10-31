@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- A document rising out of the folder; its colored lines are extracted field values -->
+  <g transform="rotate(-7 512 450)">
+    <rect x="322" y="196" width="380" height="470" rx="34" fill="#FFFFFF"/>
+    <rect x="370" y="252" width="170" height="26" rx="13" fill="#1C2A4A"/>
+    <rect x="370" y="312" width="284" height="16" rx="8" fill="#C9D1DE"/>
+    <rect x="370" y="350" width="240" height="16" rx="8" fill="#C9D1DE"/>
+    <rect x="370" y="404" width="118" height="30" rx="15" fill="#FF9F0A"/>
+    <rect x="504" y="411" width="150" height="16" rx="8" fill="#C9D1DE"/>
+    <rect x="370" y="462" width="96" height="30" rx="15" fill="#34C759"/>
+    <rect x="482" y="469" width="172" height="16" rx="8" fill="#C9D1DE"/>
+    <rect x="370" y="520" width="140" height="30" rx="15" fill="#5E5CE6"/>
+  </g>
+</svg>

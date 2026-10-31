@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Four-point sparkles for the on-device AI -->
+  <path fill="#FFD60A" d="M790 150 C800 214 822 236 886 246 C822 256 800 278 790 342 C780 278 758 256 694 246 C758 236 780 214 790 150 Z"/>
+  <path fill="#FFD60A" d="M688 118 C692 142 700 150 724 154 C700 158 692 166 688 190 C684 166 676 158 652 154 C676 150 684 142 688 118 Z"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Back panel of the folder, with its tab -->
+  <path fill="#7DB8FF" d="M262 286 h170 c22 0 38 10 50 28 l20 30 h260 c33 0 60 27 60 60 v344 c0 33 -27 60 -60 60 h-500 c-33 0 -60 -27 -60 -60 v-402 c0 -33 27 -60 60 -60 z"/>
+</svg>
